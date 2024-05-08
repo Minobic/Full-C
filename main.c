@@ -3011,7 +3011,7 @@ int main() {
   cs cs5 = {"Kirti", 7.10};
 
   it is1 = {"Bhumi", 7.95};
-  it is2 = {"Darshit", 6.58};
+  it is2 = {"anonymus", 6.58};
   it is3 = {"Rahul", 7.10};
 
   printf("CS student name: %s\n", cs1.name);
